@@ -1,0 +1,11 @@
+{
+  "env": {
+    "PORT": 3003,
+    "DB": "training_management",
+    "DB_HOST": "localhost:27017",
+    "DB_USERNAME": "skillie",
+    "DB_PASSWORD": "D5f4JJ3r",
+    "JWT_SECRET": "0vBsaeqnnPaj2ocrY8BN0MaXZYVnD1HA",
+    "JWT_EXPIRE": "24h" 
+  }
+}
